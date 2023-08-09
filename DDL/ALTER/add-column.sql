@@ -1,0 +1,3 @@
+/* PostgreSQL */
+ALTER TABLE employees
+ADD COLUMN UEI VARCHAR(12);

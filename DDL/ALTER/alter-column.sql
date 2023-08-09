@@ -1,0 +1,3 @@
+/* PostgreSQL */
+ALTER TABLE employees
+ALTER COLUMN email SET DATA TYPE INTEGER;

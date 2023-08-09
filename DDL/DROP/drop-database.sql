@@ -1,0 +1,2 @@
+/* PostgreSQL  */
+DROP DATABASE employees;
