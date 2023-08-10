@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT ON employees TO user1;

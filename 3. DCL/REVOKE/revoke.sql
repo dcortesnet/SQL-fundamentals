@@ -1,0 +1,1 @@
+REVOKE SELECT, INSERT ON employees FROM user1;
